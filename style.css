@@ -1,3 +1,15 @@
 body{
   background-color: red;
 }
+.content {
+  display: flex;
+  flex:1;
+  }
+  .main{
+    width: 80%;
+  }
+  .sidebar{
+    padding 1 rem;
+    background-color: aqua;
+    min-width: 20%;
+  }
