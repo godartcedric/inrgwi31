@@ -13,3 +13,13 @@ body{
     background-color: aqua;
     min-width: 20%;
   }
+.navigation ul{
+  display: flex;
+  flex:1;
+}
+.navigation li{
+  width: 200px;
+}
+.img{
+  size: 25%;
+}
